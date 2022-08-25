@@ -1,0 +1,21 @@
+{
+    "name": "Roblox Device Detector",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage":{
+            "$className": "ReplicatedStorage",
+            "DeviceDetector":{
+                "$ignoreUnknownInstances": true,
+                "$path": "DeviceDetector"
+            }
+        },
+        "StarterPlayer": {
+            "$className": "StarterPlayer",
+            "StarterPlayerScripts": {
+                "$className": "StarterPlayerScripts",
+                "$ignoreUnknownInstances": true,
+                "$path": "TestCode"
+            }
+        }
+    }
+}
